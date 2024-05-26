@@ -1,6 +1,7 @@
 
-oxiler-backend
-This project aims to implement a backend system to manage and analyze product transactions. The backend is designed to interact with a third-party API to fetch product transaction data, and it provides various APIs for listing transactions, generating statistics, and creating charts based on the fetched data.
+Roxiler-backend
+This project aims to implement a backend system to manage and analyze product transactions.  
+The backend is designed to interact with a third-party API to fetch product transaction data, and it provides various APIs for listing transactions, generating statistics, and creating charts based on the fetched data.
 
 
 API Endpoints
